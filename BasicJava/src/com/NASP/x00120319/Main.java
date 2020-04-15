@@ -25,7 +25,7 @@ public class Main {
         //Using diferent spaces
         System.out.println("Cat\nDod\nMonkey");
         System.out.println("Cat\n\tDog\n\t\tMonkey");
-        
+
 
 
     }
